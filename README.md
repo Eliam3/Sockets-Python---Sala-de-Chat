@@ -9,8 +9,8 @@ El proyecto consiste en un sistema de chat utilizando sockets en Python. El obje
 
 # Archivos
 
-- server.py
 - cliente.py
+- server.py
 
 # Instrucciones
 
